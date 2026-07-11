@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info
+*.eggs/
+
+# Virtual environments
+.venv/
+venv/
+.env
+.env.*
+
+# Test and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Databases and local runtime files
+*.db
+*.sqlite3
+*.sqlite
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
